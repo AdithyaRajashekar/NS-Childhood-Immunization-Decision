@@ -38,4 +38,10 @@ Nova Scotia Health. (2026). Need a Family Practice Registry Update: January 2026
 
 Government of Nova Scotia. (2024). School-Based Immunization Coverage in Nova Scotia. Open Data Portal. Retrieved from https://data.novascotia.ca/Health-and-Wellness/School-Based-Immunization-Coverage-in-Nova-Scotia/eyyu-bwpc
 
+and https://www.nshealth.ca/sites/default/files/documents/2024_School-Based_Immunization_Coverage_Report.pdf
+
 Dalhousie University. (2025). Pediatric Injections Training Program (PITP) for Pharmacists. Faculty of Health. Retrieved from https://www.dal.ca/faculty/health/cpe/programs1/pediatric-injection-training-program--pitp-.html
+
+
+
+

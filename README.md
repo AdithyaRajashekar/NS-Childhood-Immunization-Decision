@@ -18,4 +18,6 @@ Through a combination of systems thinking and data analysis, this portfolio expl
 
 ## Initial Casual Loop Diagram (CLD diagram)
 
-![Initial Casual Loop Diagram](CLD.png)
+![Initial Casual Loop Diagram](img/CLD.png)
+
+https://github.com/AdithyaRajashekar/NS-Childhood-Immunization-Decision.git
